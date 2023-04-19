@@ -5,4 +5,4 @@
 
 Here are some ideas to get you started:
 
-🌱 I’m currently learning flask and react
+-🌱 I’m currently learning flask and react
